@@ -14,3 +14,5 @@ Sumado a un gran entusiasmo por comenzar a trabajar en el desarrollo de proyecto
 
 Si quieres saber más de mi?, ¡contactame!.
 Email: ifrontroth@gmail.com
+Connect with me
+github twitter devto linkedin facebook instagram
