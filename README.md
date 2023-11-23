@@ -12,7 +12,7 @@
 
 
 ### Quien soy?  
-👩🏻 Soy Desarrolladora Full Stack 💻 con orientación al Back-end, pero sin descartar Front-end. Tengo la capacidad de realizar proyectos web completos con excelente actitud positiva y teniendo siempre en cuenta la escalabilidad y eficiencia de los mismos.
+👩🏻 Soy Desarrolladora Full Stack 💻, puedo desarrollar tanto Back-end como Front-end. Tengo la capacidad de realizar proyectos web completos con excelente actitud positiva y teniendo siempre en cuenta la escalabilidad y eficiencia de los mismos.
 
 💪🏻Además de tener muy buenas habilidades técnicas, conmigo obtendrás una desarrolladora 👩‍💻 con una gran actitud positiva, responsabilidad, autonomía, colaboración, mente abierta, pensamiento crítico y creativo ya sea a la hora de aprender, enseñar o resolver problemas. 😊Sumado a un gran entusiasmo por comenzar a trabajar en el desarrollo de proyectos desafiantes y aprender mas y mas de este mundo tech.🤩  
   
